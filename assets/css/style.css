@@ -1,0 +1,27 @@
+body {
+  padding-top: 50px;
+}
+.navbar-custom {
+    background-color: #29648a;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgba(255,255,255,.8);
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+}
+
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 52px;
+  }
+}
