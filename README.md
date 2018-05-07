@@ -5,9 +5,9 @@ Technologies used:  Ajax,jquery,json,MVC,Mysql,Codeigniter
 
 
 
-Admin Login credential:  username- admin
+Admin Login credential:  username- admin ,
 												 password-123
 												 
 												 
-User Login credential: username- user
+User Login credential: username- user ,
 											 password-123
